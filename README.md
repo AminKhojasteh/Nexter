@@ -1,4 +1,4 @@
-# Natours
+# Nexter
 
 ### This is one of the three main projects of this Udemy course
 
